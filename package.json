@@ -1,6 +1,6 @@
 {
   "name": "one_password_integration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "One Password Inegration written for NodeJS",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/iogoulias/onepassword_integration.git"
   },
-  "author": "",
+  "author": "Ioannis Goulias",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/iogoulias/onepassword_integration/issues"
