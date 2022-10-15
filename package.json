@@ -1,0 +1,26 @@
+{
+  "name": "one_password_integration",
+  "version": "1.0.0",
+  "description": "One Password Inegration written for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iogoulias/onepassword_integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iogoulias/onepassword_integration/issues"
+  },
+  "homepage": "https://github.com/iogoulias/onepassword_integration#readme",
+  "dependencies": {
+    "big-integer": "^1.6.51",
+    "crypto-js": "^4.1.1",
+    "node-fetch": "^3.2.10",
+    "request": "^2.88.2",
+    "sjcl": "^1.0.8"
+  }
+}
